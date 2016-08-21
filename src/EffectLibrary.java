@@ -10,10 +10,12 @@ public class EffectLibrary {
 		Effect grayScale = new GrayScaleEffect();
 		Effect brighten = new BrightenEffect();
 		Effect invert = new InvertEffect();
+		Effect darken = new DarkenEffect();
 		
 		registerEffect("greyscale", grayScale);
 		registerEffect("brighten", brighten);
 		registerEffect("invert", invert);
+		registerEffect("darken", darken);
 	}
 	
 	private static void registerEffect(String name, Effect effect){
