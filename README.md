@@ -6,7 +6,7 @@ Takes an input image path, an output image path and the desired image effects. O
 Current supported effects:
 - greyscale
 - brighten
-- invert colours
+- invert
 - darken
 
 Usage:
