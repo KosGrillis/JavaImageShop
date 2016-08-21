@@ -7,6 +7,7 @@ Current supported effects:
 - greyscale
 - brighten
 - invert colours
+- darken
 
 Usage:
 
